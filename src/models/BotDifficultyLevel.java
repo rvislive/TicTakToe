@@ -1,2 +1,7 @@
-package models;public enum BotDifficultyLevel {
+package models;
+
+public enum BotDifficultyLevel {
+    EASY,
+    MEDIUM,
+    HARD
 }

@@ -1,2 +1,7 @@
-package models;public enum GameStatus {
+package models;
+
+public enum GameStatus {
+    DRAW,
+    IN_PROGRESS,
+    ENDED
 }
